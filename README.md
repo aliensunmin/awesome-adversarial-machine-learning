@@ -15,7 +15,7 @@ A curated list of awesome adversarial machine learning resources, inspired by [a
 ## Papers
  * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199), C. Szegedy et al., arxiv 2014
  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), I. Goodfellow et al., ICLR 2015
- * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf)
+ * [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf) Alexey Kurakin et al., ICLR 2017 (black-box attack)
  * [Adversarial Examples For Generative Models](https://openreview.net/pdf?id=SJk01vogl)
  * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528), N. Papernot et al., ESSP 2016
  * [Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples](https://arxiv.org/abs/1602.02697), N. Papernot et al., arxiv 2016
